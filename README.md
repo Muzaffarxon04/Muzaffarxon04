@@ -1,4 +1,4 @@
-# I'm a Fronted Web Developer
+# I'm a Frontend Web Developer
 [![Muzaffarxon04's GitHub stats ](https://github-readme-stats.vercel.app/api?username=Muzaffarxon04&show_icons=true&theme=dark)](https://github.com/Muzaffarxon04)
 
 
